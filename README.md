@@ -2,4 +2,6 @@
 
 ## Github Badge
 
-GitHub badge ![badge1](./badge1.svg)
+Visualize in SwanLab ![badge1](./badge1.svg)
+
+Tracking in SwanLab ![badge2](./badge2.svg)
