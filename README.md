@@ -2,9 +2,9 @@
 
 ## Github Badge
 
-Visualize in SwanLab ![badge1](./badge1.svg)
+Visualize in SwanLab ![badge1](./badge1.svg){ width=120% height=120% }
 
-Tracking in SwanLab ![badge2](./badge2.svg)
+Tracking in SwanLab ![badge2](./badge2.svg){ width=120% height=120% }
 
 ## Logo
 
